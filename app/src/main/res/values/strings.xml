@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">DetailedArticleViewer</string>
+
+    <string name="head_article">Semua Daftar Artikel</string>
+    <string name="head_detail_article">Detail Artikel</string>
+    <string name="head_about">Tentang Saya</string>
+
+    <string-array name="data_title">
+        <item>Albert Einstein</item>
+        <item>Marie Curie</item>
+        <item>Isaac Newton</item>
+        <item>Galileo Galilei</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Albert Einstein adalah seorang fisikawan teoretis kelahiran Jerman yang mengembangkan teori relativitas, salah satu pilar utama fisika modern. Ia terkenal dengan persamaan energi-massa, E = mc², yang dijuluki sebagai "persamaan paling terkenal di dunia".</item>
+        <item>Marie Curie adalah seorang ilmuwan fisika dan kimia asal Polandia-Prancis yang terkenal karena penelitiannya tentang radioaktivitas. Ia adalah wanita pertama yang memenangkan Hadiah Nobel, dan satu-satunya wanita yang memenangkannya di dua bidang berbeda: fisika dan kimia.</item>
+        <item>Isaac Newton adalah seorang matematikawan, fisikawan, astronom, dan filsuf alam dari Inggris. Ia dikenal sebagai pelopor dalam pengembangan kalkulus dan hukum gravitasi universal, serta menciptakan karya monumental "Philosophiæ Naturalis Principia Mathematica".</item>
+        <item>Galileo Galilei adalah seorang astronom, fisikawan, dan insinyur asal Italia yang dikenal sebagai "bapak sains modern". Ia adalah salah satu ilmuwan pertama yang menggunakan teleskop untuk mengamati langit, menemukan empat satelit terbesar Jupiter, dan mendukung teori heliosentris Copernicus.</item>
+
+    </string-array>
+
+    <string-array name="data_author">
+        <item>John Smith</item>
+        <item>Jane Doe</item>
+        <item>Robert Brown</item>
+        <item>Emily Davis</item>
+    </string-array>
+
+    <string-array name="data_image">
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/6d/Marie_Curie_c1920.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d1/Sir_Isaac_Newton_%281642-1727%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/bd/Galileo.arp.300pix.jpg</item>
+    </string-array>
+
 </resources>
