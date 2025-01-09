@@ -34,9 +34,9 @@ class AboutActivity : AppCompatActivity() {
         val email = intent.getStringExtra(EXTRA_EMAIL)
         val profileImage = intent.getStringExtra(EXTRA_IMAGE_PROFILE)
 
-        val tvName : TextView = findViewById(R.id.tv_name)
-        val tvEmail : TextView = findViewById(R.id.tv_email)
-        val imageView : ImageView = findViewById(R.id.profile_image)
+        val tvName : TextView = binding.tvName
+        val tvEmail : TextView = binding.tvEmail
+        val imageView : ImageView = binding.profileImage
 
         Glide.with(this)
             .load(profileImage)
