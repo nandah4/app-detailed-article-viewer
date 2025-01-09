@@ -59,6 +59,7 @@
             android:layout_marginStart="10dp"
             android:layout_marginTop="5dp"
             android:text="@string/dummy_description_card"
+            android:maxLines="3"
             card_view:layout_constraintBottom_toBottomOf="parent"
             card_view:layout_constraintEnd_toEndOf="parent"
             card_view:layout_constraintStart_toEndOf="@+id/item_image_view"
