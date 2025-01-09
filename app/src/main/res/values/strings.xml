@@ -36,9 +36,9 @@
 
     <string-array name="data_image">
         <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/6/6d/Marie_Curie_c1920.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/d/d1/Sir_Isaac_Newton_%281642-1727%29.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/b/bd/Galileo.arp.300pix.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
     </string-array>
 
 </resources>
