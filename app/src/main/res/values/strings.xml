@@ -7,6 +7,10 @@
 
     <!-- Dummy Data -->
 
+    <string name="name_profile">Ananda Priya Yustira</string>
+    <string name="email_profile">nyustira6@gmail.com</string>
+    <string name="image_profile">https://upload.wikimedia.org/wikipedia/commons/f/fe/Andrew_Garfield_in_2023_%28cropped%29.jpg</string>
+
     <string name="dummy_title_card">Judul Artikel </string>
     <string name="dummy_author_card">Robert Downey Junior </string>
     <string name="dummy_description_card">Artikel in membahas tentang bagaimana suatu cara untuk menampilkan suatu data</string>

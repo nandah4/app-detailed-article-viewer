@@ -1,7 +1,9 @@
 package com.example.detailedarticleviewer
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
+import android.view.MenuItem
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -29,6 +31,21 @@ class MainActivity : AppCompatActivity() {
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu, menu)
         return super.onCreateOptionsMenu(menu)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when(item.itemId) {
+            R.id.action_profile -> {
+                val intent = Intent(this@MainActivity, AboutActivity::class.java)
+
+                intent.putExtra(AboutActivity.EXTRA_NAME, resources.getString(R.string.name_profile))
+                intent.putExtra(AboutActivity.EXTRA_EMAIL, resources.getString(R.string.email_profile))
+                intent.putExtra(AboutActivity.EXTRA_IMAGE_PROFILE, resources.getString(R.string.image_profile))
+                startActivity(intent)
+            }
+        }
+
+        return super.onOptionsItemSelected(item)
     }
 
     // Function untuk menambah data ke listData
