@@ -1,12 +1,17 @@
 package com.example.detailedarticleviewer
 
 import android.os.Bundle
+import android.view.Menu
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
+import com.example.detailedarticleviewer.databinding.ActivityAboutBinding
 
 class AboutActivity : AppCompatActivity() {
+
+    private lateinit var binding : ActivityAboutBinding
 
     companion object {
         const val EXTRA_NAME = "extra_name"
@@ -16,7 +21,14 @@ class AboutActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_about)
+
+        binding = ActivityAboutBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+        setSupportActionBar(binding.toolbarAboutPage)
+
+        binding.toolbarAboutPage.setNavigationOnClickListener {
+            finish()
+        }
 
         val name = intent.getStringExtra(EXTRA_NAME)
         val email = intent.getStringExtra(EXTRA_EMAIL)
@@ -33,7 +45,6 @@ class AboutActivity : AppCompatActivity() {
         tvName.text = name
         tvEmail.text = email
 
+
     }
-
-
 }
