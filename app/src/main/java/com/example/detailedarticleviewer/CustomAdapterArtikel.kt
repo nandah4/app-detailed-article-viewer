@@ -29,6 +29,11 @@ class CustomAdapterArtikel(var listArtikel : ArrayList<DataArtikel>) : RecyclerV
         return ListViewHolder(binding)
     }
 
+    // get size data
+    fun getSizeData() : Int {
+        return listArtikel.size
+    }
+
     // Isi rak
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
         val (title, description, author, imagePhoto) = listArtikel[position]

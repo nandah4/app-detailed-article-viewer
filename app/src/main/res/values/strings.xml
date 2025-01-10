@@ -9,7 +9,7 @@
 
     <string name="name_profile">Ananda Priya Yustira</string>
     <string name="email_profile">nyustira6@gmail.com</string>
-    <string name="image_profile">https://upload.wikimedia.org/wikipedia/commons/f/fe/Andrew_Garfield_in_2023_%28cropped%29.jpg</string>
+    <string name="image_profile">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos-12a87c08b5534561d97c13f3a227941020240603091626.png</string>
 
     <string name="dummy_title_card">Judul Artikel </string>
     <string name="dummy_author_card">Robert Downey Junior </string>
@@ -17,39 +17,36 @@
     <string name="dummy_button_card">Baca Detail</string>
 
     <string-array name="data_title">
-        <item>Albert Einstein</item>
-        <item>Marie Curie</item>
-        <item>Isaac Newton</item>
-        <item>Galileo Galilei</item>
-        <item>Nikola Tesla</item>
-        <item>Stephen Hawking</item>
-        <item>Charles Darwin</item>
-        <item>Alexander Fleming</item>
-        <item>Leonardo da Vinci</item>
-        <item>Thomas Edison</item>
-        <item>Alan Turing</item>
-        <item>Johannes Kepler</item>
-        <item>Archimedes</item>
-        <item>Michael Faraday</item>
-        <item>Rosalind Franklin</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Sutomo as known as Bung Tomo</item>
+        <item>Salah Satu Bapak Proklamasi Indonesia, yaitu Ir. Soekarno</item>
+        <item>Mohammad Hatta</item>
+        <item>Jenderal Sudirman</item>
+        <item>RA Kartini</item>
+        <item>Diponegoro</item>
+        <item>Teuku Umar</item>
+
+        <item>Hasyim Asyari</item>
+        <item>Gatot Subroto</item>
+        <item>Mohammad Natsir</item>
+
+        <item>Sultan Agung</item>
     </string-array>
 
     <string-array name="data_description">
-        <item>Albert Einstein adalah seorang fisikawan teoretis kelahiran Jerman yang mengembangkan teori relativitas, termasuk persamaan E = mc². Ia adalah penerima Hadiah Nobel Fisika pada tahun 1921 atas penjelasannya tentang efek fotolistrik. Kontribusinya yang mendalam terhadap fisika modern membuatnya menjadi salah satu ilmuwan paling berpengaruh sepanjang masa.</item>
-        <item>Marie Curie adalah ilmuwan yang terkenal karena penelitiannya tentang radioaktivitas, dan wanita pertama yang memenangkan dua Hadiah Nobel. Bersama suaminya, Pierre Curie, ia menemukan unsur radioaktif polonium dan radium. Penelitiannya membuka jalan bagi kemajuan besar dalam pengobatan kanker melalui terapi radiasi.</item>
-        <item>Isaac Newton adalah penemu hukum gravitasi universal dan pelopor kalkulus, serta penulis "Principia Mathematica". Karyanya juga mencakup tiga hukum gerak yang menjadi dasar mekanika klasik. Newton dikenal sebagai salah satu ilmuwan paling berpengaruh dalam sejarah, mengubah cara kita memahami alam semesta.</item>
-        <item>Galileo Galilei menggunakan teleskop untuk mendukung teori heliosentris dan menemukan satelit terbesar Jupiter. Ia juga dikenal sebagai pelopor metode ilmiah modern melalui eksperimennya yang terperinci. Galileo sering disebut sebagai "bapak astronomi observasional" dan "bapak sains modern".</item>
-        <item>Nikola Tesla adalah seorang penemu dan insinyur kelistrikan yang mengembangkan teknologi arus listrik AC. Ia juga terkenal dengan penemuannya seperti Tesla Coil dan kontribusinya pada pengembangan komunikasi nirkabel. Tesla adalah simbol inovasi dan kreativitas dalam dunia teknik dan energi.</item>
-        <item>Stephen Hawking adalah seorang fisikawan teoretis terkenal dengan karya-karyanya tentang lubang hitam dan teori kosmologi. Dalam bukunya "A Brief History of Time", ia menjelaskan alam semesta dengan cara yang dapat diakses oleh masyarakat umum. Meski menderita ALS, ia terus berkontribusi pada sains hingga akhir hayatnya.</item>
-        <item>Charles Darwin adalah seorang naturalis yang merumuskan teori evolusi melalui seleksi alam dalam karyanya "On the Origin of Species". Penelitiannya didasarkan pada perjalanan lima tahun di HMS Beagle, di mana ia mempelajari flora, fauna, dan fosil. Teorinya mengubah cara kita memahami asal-usul kehidupan di Bumi.</item>
-        <item>Alexander Fleming menemukan penisilin, antibiotik pertama, yang merevolusi dunia kedokteran. Penemuan ini tidak hanya menyelamatkan jutaan nyawa tetapi juga mengubah cara kita menangani infeksi bakteri. Fleming juga memenangkan Hadiah Nobel untuk kontribusinya pada ilmu kedokteran.</item>
-        <item>Leonardo da Vinci adalah seorang polymath terkenal dengan karya seni dan inovasi seperti "Mona Lisa" dan desain futuristik. Ia juga membuat banyak penemuan di bidang anatomi, teknik, dan ilmu pengetahuan. Kecerdasannya melampaui zamannya, menjadikannya salah satu tokoh Renaissance terbesar.</item>
-        <item>Thomas Edison adalah seorang penemu terkenal dengan karyanya dalam menciptakan bola lampu dan fonograf. Ia memegang lebih dari 1.000 paten dan mendirikan General Electric, salah satu perusahaan teknologi terbesar. Edison adalah simbol kegigihan dan inovasi dalam dunia teknologi.</item>
-        <item>Alan Turing adalah seorang matematikawan yang dianggap sebagai bapak ilmu komputer modern dan kecerdasan buatan. Ia memecahkan kode Enigma Nazi selama Perang Dunia II, yang membantu sekutu memenangkan perang. Turing juga merancang mesin Turing, yang menjadi dasar komputer modern.</item>
-        <item>Johannes Kepler adalah seorang astronom yang menemukan hukum gerak planet yang mendasari orbit elips. Ia juga memberikan kontribusi penting pada optik dan astronomi bintang. Karyanya memperkuat teori heliosentris Copernicus dan membuka jalan bagi sains modern.</item>
-        <item>Archimedes adalah seorang matematikawan dan fisikawan yang dikenal karena prinsip hidrostatika dan pengungkit. Ia juga merancang mesin perang untuk mempertahankan kotanya dari serangan. Archimedes adalah pelopor dalam matematika dan fisika klasik.</item>
-        <item>Michael Faraday adalah seorang ilmuwan yang menemukan elektromagnetisme dan induksi elektromagnetik. Penemuannya menjadi dasar bagi generator listrik modern. Faraday juga memiliki peran penting dalam perkembangan kimia, termasuk penemuan benzena.</item>
-        <item>Rosalind Franklin adalah seorang ahli biologi molekuler yang kontribusinya penting untuk penemuan struktur DNA. Melalui difraksi sinar-X, ia menghasilkan gambar yang menjadi kunci dalam memahami double helix. Sayangnya, kontribusinya sering diabaikan dalam sejarah penemuan DNA.</item>
+        <item>Soewardi Soerjaningrat (EYD: Suwardi Suryaningrat, sejak 1922 menjadi Ki Hadjar Dewantara, EYD: Ki Hajar Dewantara, beberapa menuliskan bunyi bahasa Jawanya dengan Ki Hajar Dewantoro; lair nang Yogyakarta, 2 Mei 1889 – seda nang Yogyakarta, 26 April 1959 dong umure 69 taun[1]; selanjutnya disingkat sebagai "Soewardi" atau "KHD") adalah aktivis pergerakan kemerdekaan Indonesia, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda. Ia adalah pendiri Perguruan Taman Siswa, suatu lembaga pendidikan yang memberikan kesempatan bagi para pribumi jelata untuk bisa memperoleh hak pendidikan seperti halnya para priyayi maupun orang-orang Belanda.</item>
+        <item>Sutomo (3 Oktober 1920 – 7 Oktober 1981),[1] juga dikenal sebagai Bung Tomo, adalah seorang pemimpin revolusioner dan militer Indonesia yang terkenal karena perannya dalam Revolusi Nasional Indonesia melawan pemerintahan kolonial Belanda. Dia memainkan peran sentral dalam Pertempuran Surabaya, yang terjadi antara pasukan Britania Raya dan Indonesia dari bulan Oktober hingga November 1945.</item>
+        <item>Ir. Soekarno (Ejaan Republik: Sukarno; 6 Juni 1901 – 21 Juni 1970),[cat. 1] biasa dipanggil dengan sebutan Bung Karno adalah seorang negarawan, orator, dan Presiden Indonesia pertama yang menjabat sejak tahun 1945 sampai 1967. Ia menjabat sebagai presiden setelah memproklamasikan kemerdekaan Indonesia bersama wakilnya, Mohammad Hatta.[6]:11, 81[7]:26-32 Selain dikenal sebagai Bapak Proklamator, Soekarno dikenal juga sebagai pencetus Pancasila, dasar negara dan ideologi bangsa Indonesia.[7][8]
+            Soekarno adalah pemimpin perjuangan Indonesia untuk meraih kemerdekaan dari penjajah Belanda. Ia adalah pemimpin terkemuka gerakan nasionalis Indonesia selama masa kolonial dan menghabiskan lebih dari satu dekade di tahanan Belanda hingga dibebaskan oleh penjajah Jepang dalam Perang Dunia II. Soekarno dan rekan-rekan nasionalisnya berkolaborasi dengan Jepang untuk mendapatkan dukungan bagi upaya perang Jepang dari penduduk, sebagai imbalan atas bantuan Jepang dalam menyebarkan ide-ide nasionalis. Setelah Jepang menyerah, Soekarno dan Mohammad Hatta mendeklarasikan kemerdekaan Indonesia pada tanggal 17 Agustus 1945, dan Sukarno diangkat menjadi presiden. Ia memimpin perlawanan Indonesia terhadap upaya penjajahan kembali Belanda melalui cara diplomatik dan militer hingga pengakuan Belanda atas kemerdekaan Indonesia pada tahun 1949. Oleh karena itu, ia diberi gelar "Bapak Proklamasi."[9]</item>
+        <item>Mohammad Hatta adalah wakil presiden pertama Indonesia yang mendampingi Soekarno, serta berperan dalam proklamasi kemerdekaan Indonesia pada 17 Agustus 1945.</item>
+        <item>Jenderal Sudirman adalah seorang pahlawan nasional Indonesia dan panglima besar Tentara Nasional Indonesia yang berjuang melawan penjajah Belanda.</item>
+        <item>RA Kartini adalah seorang pahlawan nasional yang dikenal karena perjuangannya dalam memajukan pendidikan perempuan di Indonesia pada masa kolonial.</item>
+        <item>Diponegoro adalah pahlawan nasional yang memimpin Perang Jawa (1825 sampai 1830) melawan kolonial Belanda untuk mempertahankan kemerdekaan Indonesia.</item>
+        <item>Teuku Umar adalah pahlawan Aceh yang terkenal karena perjuangannya dalam perlawanan terhadap penjajahan Belanda di Aceh.</item>
+        <item>Hasyim Asyari adalah pendiri Nahdlatul Ulama dan seorang ulama yang berperan dalam memperjuangkan kemerdekaan Indonesia melalui pendekatan keagamaan.</item>
+        <item>Gatot Subroto adalah seorang jenderal TNI yang berperan dalam perjuangan melawan penjajahan Jepang dan Belanda, serta dalam memperjuangkan kemerdekaan Indonesia.</item>
+        <item>Mohammad Natsir adalah seorang pejuang kemerdekaan Indonesia, tokoh Muhammadiyah, dan perdana menteri Indonesia yang memperjuangkan ideologi negara.</item>
+        <item>Sultan Agung adalah Sultan Mataram yang memimpin perlawanan terhadap penjajahan Belanda di abad ke-17.</item>
     </string-array>
 
     <string-array name="data_author">
@@ -65,27 +62,27 @@
         <item>Jessica Anderson</item>
         <item>James Thomas</item>
         <item>Laura White</item>
-        <item>David Harris</item>
-        <item>Olivia Lewis</item>
-        <item>Ethan Walker</item>
+
+
+
     </string-array>
 
     <string-array name="data_image">
-        <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/1/11/Marie_Curie_c1920.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/d/d1/Sir_Isaac_Newton_%281640-1727%29.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/3/3d/Galileo.arp.300pix.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/e/e6/Charles_Darwin_aged_51.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/4/43/Alexander_Fleming_3.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/e/ec/Leonardo_da_Vinci_-_presumed_self-portrait_-_ca._1510.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/2/2d/Johannes_Kepler_1610.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/3/3a/Archimedes_in_his_bath.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/a/a8/Michael_Faraday_%28cropped%29.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/d/d4/Rosalind_Franklin.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/map-bms/6/65/Ki_hajar_dewantara2.jpg?20110509150013</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/ed/Bung_Tomo.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/01/Presiden_Sukarno.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/db/Mohammad_Hatta%2C_Pekan_Buku_Indonesia_1954%2C_p242.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e7/Sudirman.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/23/COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/2c/Diponegoro.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/68/Teuku_Umar.jpg</item>
+
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/92/Hasyim_Asyari.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/be/Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/4d/Mohammad_Natsir_1950s.jpg</item>
+
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d0/Anyakrakusuma_of_Mataram.jpg</item>
+
     </string-array>
 
 </resources>

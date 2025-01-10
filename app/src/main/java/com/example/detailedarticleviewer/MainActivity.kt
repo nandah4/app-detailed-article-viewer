@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -15,6 +16,8 @@ import androidx.recyclerview.widget.RecyclerView
 class MainActivity : AppCompatActivity() {
     lateinit var rvMain : RecyclerView;
     private val listData = ArrayList<DataArtikel>()
+
+    lateinit var tvStrC : TextView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -71,6 +74,9 @@ class MainActivity : AppCompatActivity() {
         val listDataAdapter = CustomAdapterArtikel(listData)
 
         rvMain.adapter = listDataAdapter
+
+        var tvCount : TextView = findViewById(R.id.tv_count)
+        tvCount.text = listDataAdapter.getSizeData().toString()
 
         listDataAdapter.setOnItemClickCallback(object : CustomAdapterArtikel.OnItemClickCallback {
             override fun itemClicked(data: DataArtikel) {
