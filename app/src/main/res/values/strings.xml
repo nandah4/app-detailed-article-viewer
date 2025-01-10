@@ -21,14 +21,35 @@
         <item>Marie Curie</item>
         <item>Isaac Newton</item>
         <item>Galileo Galilei</item>
+        <item>Nikola Tesla</item>
+        <item>Stephen Hawking</item>
+        <item>Charles Darwin</item>
+        <item>Alexander Fleming</item>
+        <item>Leonardo da Vinci</item>
+        <item>Thomas Edison</item>
+        <item>Alan Turing</item>
+        <item>Johannes Kepler</item>
+        <item>Archimedes</item>
+        <item>Michael Faraday</item>
+        <item>Rosalind Franklin</item>
     </string-array>
 
     <string-array name="data_description">
-        <item>Albert Einstein adalah seorang fisikawan teoretis kelahiran Jerman yang mengembangkan teori relativitas, salah satu pilar utama fisika modern. Ia terkenal dengan persamaan energi-massa, E = mc², yang dijuluki sebagai "persamaan paling terkenal di dunia".</item>
-        <item>Marie Curie adalah seorang ilmuwan fisika dan kimia asal Polandia-Prancis yang terkenal karena penelitiannya tentang radioaktivitas. Ia adalah wanita pertama yang memenangkan Hadiah Nobel, dan satu-satunya wanita yang memenangkannya di dua bidang berbeda: fisika dan kimia.</item>
-        <item>Isaac Newton adalah seorang matematikawan, fisikawan, astronom, dan filsuf alam dari Inggris. Ia dikenal sebagai pelopor dalam pengembangan kalkulus dan hukum gravitasi universal, serta menciptakan karya monumental "Philosophiæ Naturalis Principia Mathematica".</item>
-        <item>Galileo Galilei adalah seorang astronom, fisikawan, dan insinyur asal Italia yang dikenal sebagai "bapak sains modern". Ia adalah salah satu ilmuwan pertama yang menggunakan teleskop untuk mengamati langit, menemukan empat satelit terbesar Jupiter, dan mendukung teori heliosentris Copernicus.</item>
-
+        <item>Albert Einstein adalah seorang fisikawan teoretis kelahiran Jerman yang mengembangkan teori relativitas, termasuk persamaan E = mc². Ia adalah penerima Hadiah Nobel Fisika pada tahun 1921 atas penjelasannya tentang efek fotolistrik. Kontribusinya yang mendalam terhadap fisika modern membuatnya menjadi salah satu ilmuwan paling berpengaruh sepanjang masa.</item>
+        <item>Marie Curie adalah ilmuwan yang terkenal karena penelitiannya tentang radioaktivitas, dan wanita pertama yang memenangkan dua Hadiah Nobel. Bersama suaminya, Pierre Curie, ia menemukan unsur radioaktif polonium dan radium. Penelitiannya membuka jalan bagi kemajuan besar dalam pengobatan kanker melalui terapi radiasi.</item>
+        <item>Isaac Newton adalah penemu hukum gravitasi universal dan pelopor kalkulus, serta penulis "Principia Mathematica". Karyanya juga mencakup tiga hukum gerak yang menjadi dasar mekanika klasik. Newton dikenal sebagai salah satu ilmuwan paling berpengaruh dalam sejarah, mengubah cara kita memahami alam semesta.</item>
+        <item>Galileo Galilei menggunakan teleskop untuk mendukung teori heliosentris dan menemukan satelit terbesar Jupiter. Ia juga dikenal sebagai pelopor metode ilmiah modern melalui eksperimennya yang terperinci. Galileo sering disebut sebagai "bapak astronomi observasional" dan "bapak sains modern".</item>
+        <item>Nikola Tesla adalah seorang penemu dan insinyur kelistrikan yang mengembangkan teknologi arus listrik AC. Ia juga terkenal dengan penemuannya seperti Tesla Coil dan kontribusinya pada pengembangan komunikasi nirkabel. Tesla adalah simbol inovasi dan kreativitas dalam dunia teknik dan energi.</item>
+        <item>Stephen Hawking adalah seorang fisikawan teoretis terkenal dengan karya-karyanya tentang lubang hitam dan teori kosmologi. Dalam bukunya "A Brief History of Time", ia menjelaskan alam semesta dengan cara yang dapat diakses oleh masyarakat umum. Meski menderita ALS, ia terus berkontribusi pada sains hingga akhir hayatnya.</item>
+        <item>Charles Darwin adalah seorang naturalis yang merumuskan teori evolusi melalui seleksi alam dalam karyanya "On the Origin of Species". Penelitiannya didasarkan pada perjalanan lima tahun di HMS Beagle, di mana ia mempelajari flora, fauna, dan fosil. Teorinya mengubah cara kita memahami asal-usul kehidupan di Bumi.</item>
+        <item>Alexander Fleming menemukan penisilin, antibiotik pertama, yang merevolusi dunia kedokteran. Penemuan ini tidak hanya menyelamatkan jutaan nyawa tetapi juga mengubah cara kita menangani infeksi bakteri. Fleming juga memenangkan Hadiah Nobel untuk kontribusinya pada ilmu kedokteran.</item>
+        <item>Leonardo da Vinci adalah seorang polymath terkenal dengan karya seni dan inovasi seperti "Mona Lisa" dan desain futuristik. Ia juga membuat banyak penemuan di bidang anatomi, teknik, dan ilmu pengetahuan. Kecerdasannya melampaui zamannya, menjadikannya salah satu tokoh Renaissance terbesar.</item>
+        <item>Thomas Edison adalah seorang penemu terkenal dengan karyanya dalam menciptakan bola lampu dan fonograf. Ia memegang lebih dari 1.000 paten dan mendirikan General Electric, salah satu perusahaan teknologi terbesar. Edison adalah simbol kegigihan dan inovasi dalam dunia teknologi.</item>
+        <item>Alan Turing adalah seorang matematikawan yang dianggap sebagai bapak ilmu komputer modern dan kecerdasan buatan. Ia memecahkan kode Enigma Nazi selama Perang Dunia II, yang membantu sekutu memenangkan perang. Turing juga merancang mesin Turing, yang menjadi dasar komputer modern.</item>
+        <item>Johannes Kepler adalah seorang astronom yang menemukan hukum gerak planet yang mendasari orbit elips. Ia juga memberikan kontribusi penting pada optik dan astronomi bintang. Karyanya memperkuat teori heliosentris Copernicus dan membuka jalan bagi sains modern.</item>
+        <item>Archimedes adalah seorang matematikawan dan fisikawan yang dikenal karena prinsip hidrostatika dan pengungkit. Ia juga merancang mesin perang untuk mempertahankan kotanya dari serangan. Archimedes adalah pelopor dalam matematika dan fisika klasik.</item>
+        <item>Michael Faraday adalah seorang ilmuwan yang menemukan elektromagnetisme dan induksi elektromagnetik. Penemuannya menjadi dasar bagi generator listrik modern. Faraday juga memiliki peran penting dalam perkembangan kimia, termasuk penemuan benzena.</item>
+        <item>Rosalind Franklin adalah seorang ahli biologi molekuler yang kontribusinya penting untuk penemuan struktur DNA. Melalui difraksi sinar-X, ia menghasilkan gambar yang menjadi kunci dalam memahami double helix. Sayangnya, kontribusinya sering diabaikan dalam sejarah penemuan DNA.</item>
     </string-array>
 
     <string-array name="data_author">
@@ -36,13 +57,35 @@
         <item>Jane Doe</item>
         <item>Robert Brown</item>
         <item>Emily Davis</item>
+        <item>Michael Johnson</item>
+        <item>Sarah Williams</item>
+        <item>Daniel Martinez</item>
+        <item>Emma Wilson</item>
+        <item>Chris Taylor</item>
+        <item>Jessica Anderson</item>
+        <item>James Thomas</item>
+        <item>Laura White</item>
+        <item>David Harris</item>
+        <item>Olivia Lewis</item>
+        <item>Ethan Walker</item>
     </string-array>
 
     <string-array name="data_image">
         <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/11/Marie_Curie_c1920.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d1/Sir_Isaac_Newton_%281640-1727%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3d/Galileo.arp.300pix.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e6/Charles_Darwin_aged_51.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/43/Alexander_Fleming_3.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/ec/Leonardo_da_Vinci_-_presumed_self-portrait_-_ca._1510.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/2d/Johannes_Kepler_1610.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/3a/Archimedes_in_his_bath.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a8/Michael_Faraday_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d4/Rosalind_Franklin.jpg</item>
     </string-array>
 
 </resources>
