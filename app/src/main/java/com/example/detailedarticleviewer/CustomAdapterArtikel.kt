@@ -9,6 +9,16 @@ import com.example.detailedarticleviewer.databinding.ItemRowBinding
 
 class CustomAdapterArtikel(var listArtikel : ArrayList<DataArtikel>) : RecyclerView.Adapter<CustomAdapterArtikel.ListViewHolder>() {
 
+    private lateinit var onItemClickedCalllback : OnItemClickCallback
+
+    interface OnItemClickCallback {
+        fun itemClicked(data : DataArtikel)
+    }
+
+    fun setOnItemClickCallback(onItemClick : OnItemClickCallback) {
+        this.onItemClickedCalllback = onItemClick
+    }
+
     //  Mereferensikan item dari view di dalam daftar
     class ListViewHolder(var binding : ItemRowBinding) : RecyclerView.ViewHolder(binding.root)
 
@@ -30,6 +40,10 @@ class CustomAdapterArtikel(var listArtikel : ArrayList<DataArtikel>) : RecyclerV
         holder.binding.itemTvTitleCard.text= title
         holder.binding.itemTvAuthorCard.text = author
         holder.binding.itemTvDescriptionCard.text = description
+
+        holder.itemView.setOnClickListener{
+            onItemClickedCalllback.itemClicked(listArtikel[holder.adapterPosition])
+        }
     }
 
     //  Hitung item rak

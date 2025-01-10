@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -44,7 +45,6 @@ class MainActivity : AppCompatActivity() {
                 startActivity(intent)
             }
         }
-
         return super.onOptionsItemSelected(item)
     }
 
@@ -71,5 +71,14 @@ class MainActivity : AppCompatActivity() {
         val listDataAdapter = CustomAdapterArtikel(listData)
 
         rvMain.adapter = listDataAdapter
+
+        listDataAdapter.setOnItemClickCallback(object : CustomAdapterArtikel.OnItemClickCallback {
+            override fun itemClicked(data: DataArtikel) {
+                val intent = Intent(this@MainActivity, DetailActivity::class.java)
+                val dts = DataArtikel("Ananda", "adaas", "adsad", "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg")
+                intent.putExtra(DetailActivity.EXTRA_OBJECT, data)
+                startActivity(intent)
+            }
+        })
     }
 }
