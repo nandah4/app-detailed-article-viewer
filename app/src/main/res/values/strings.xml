@@ -13,7 +13,7 @@
 
     <string name="dummy_title_card">Judul Artikel </string>
     <string name="dummy_author_card">Robert Downey Junior </string>
-    <string name="dummy_description_card">Artikel in membahas tentang bagaimana suatu cara untuk menampilkan suatu data</string>
+    <string name="dummy_description_card">Artikel ini membahas tentang bagaimana suatu cara untuk menampilkan suatu data</string>
     <string name="dummy_button_card">Baca Detail</string>
 
     <string-array name="data_title">

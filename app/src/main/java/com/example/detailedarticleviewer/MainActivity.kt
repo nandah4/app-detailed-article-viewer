@@ -5,11 +5,8 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.TextView
-import android.widget.Toast
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -17,9 +14,8 @@ class MainActivity : AppCompatActivity() {
     lateinit var rvMain : RecyclerView;
     private val listData = ArrayList<DataArtikel>()
 
-    lateinit var tvStrC : TextView
-
     override fun onCreate(savedInstanceState: Bundle?) {
+        installSplashScreen()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
@@ -81,7 +77,6 @@ class MainActivity : AppCompatActivity() {
         listDataAdapter.setOnItemClickCallback(object : CustomAdapterArtikel.OnItemClickCallback {
             override fun itemClicked(data: DataArtikel) {
                 val intent = Intent(this@MainActivity, DetailActivity::class.java)
-                val dts = DataArtikel("Ananda", "adaas", "adsad", "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg")
                 intent.putExtra(DetailActivity.EXTRA_OBJECT, data)
                 startActivity(intent)
             }

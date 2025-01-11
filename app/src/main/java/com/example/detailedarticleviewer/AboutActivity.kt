@@ -1,10 +1,8 @@
 package com.example.detailedarticleviewer
 
 import android.os.Bundle
-import android.view.Menu
 import android.widget.ImageView
 import android.widget.TextView
-import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.example.detailedarticleviewer.databinding.ActivityAboutBinding
