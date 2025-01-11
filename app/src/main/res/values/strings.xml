@@ -17,72 +17,63 @@
     <string name="dummy_button_card">Baca Detail</string>
 
     <string-array name="data_title">
-        <item>Ki Hadjar Dewantara</item>
-        <item>Sutomo as known as Bung Tomo</item>
-        <item>Salah Satu Bapak Proklamasi Indonesia, yaitu Ir. Soekarno</item>
-        <item>Mohammad Hatta</item>
-        <item>Jenderal Sudirman</item>
-        <item>RA Kartini</item>
-        <item>Diponegoro</item>
-        <item>Teuku Umar</item>
-
-        <item>Hasyim Asyari</item>
-        <item>Gatot Subroto</item>
-        <item>Mohammad Natsir</item>
-
-        <item>Sultan Agung</item>
+        <item>Pengumuman Pemilu 2024</item>
+        <item>Perkembangan Teknologi 5G di Indonesia</item>
+        <item>Konferensi Perubahan Iklim Indonesia 2024</item>
+        <item>Peningkatan Pariwisata Indonesia Pasca Pandemi</item>
+        <item>Revolusi Pendidikan Indonesia di Era Digital</item>
+        <item>Perkembangan Infrastruktur Jalan Tol di Indonesia</item>
+        <item>Keamanan Siber di Indonesia: Tantangan dan Solusi</item>
+        <item>Indonesia Menjadi Tujuan Utama Investasi Asing</item>
+        <item>Strategi Pembangunan Ekonomi Indonesia 2024</item>
+        <item>Kebijakan Energi Terbarukan di Indonesia</item>
+        <item>Restorasi Ekosistem Hutan Indonesia</item>
+        <item>Transformasi Sistem Kesehatan Indonesia</item>
     </string-array>
 
     <string-array name="data_description">
-        <item>Soewardi Soerjaningrat (EYD: Suwardi Suryaningrat, sejak 1922 menjadi Ki Hadjar Dewantara, EYD: Ki Hajar Dewantara, beberapa menuliskan bunyi bahasa Jawanya dengan Ki Hajar Dewantoro; lair nang Yogyakarta, 2 Mei 1889 – seda nang Yogyakarta, 26 April 1959 dong umure 69 taun[1]; selanjutnya disingkat sebagai "Soewardi" atau "KHD") adalah aktivis pergerakan kemerdekaan Indonesia, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda. Ia adalah pendiri Perguruan Taman Siswa, suatu lembaga pendidikan yang memberikan kesempatan bagi para pribumi jelata untuk bisa memperoleh hak pendidikan seperti halnya para priyayi maupun orang-orang Belanda.</item>
-        <item>Sutomo (3 Oktober 1920 – 7 Oktober 1981),[1] juga dikenal sebagai Bung Tomo, adalah seorang pemimpin revolusioner dan militer Indonesia yang terkenal karena perannya dalam Revolusi Nasional Indonesia melawan pemerintahan kolonial Belanda. Dia memainkan peran sentral dalam Pertempuran Surabaya, yang terjadi antara pasukan Britania Raya dan Indonesia dari bulan Oktober hingga November 1945.</item>
-        <item>Ir. Soekarno (Ejaan Republik: Sukarno; 6 Juni 1901 – 21 Juni 1970),[cat. 1] biasa dipanggil dengan sebutan Bung Karno adalah seorang negarawan, orator, dan Presiden Indonesia pertama yang menjabat sejak tahun 1945 sampai 1967. Ia menjabat sebagai presiden setelah memproklamasikan kemerdekaan Indonesia bersama wakilnya, Mohammad Hatta.[6]:11, 81[7]:26-32 Selain dikenal sebagai Bapak Proklamator, Soekarno dikenal juga sebagai pencetus Pancasila, dasar negara dan ideologi bangsa Indonesia.[7][8]
-            Soekarno adalah pemimpin perjuangan Indonesia untuk meraih kemerdekaan dari penjajah Belanda. Ia adalah pemimpin terkemuka gerakan nasionalis Indonesia selama masa kolonial dan menghabiskan lebih dari satu dekade di tahanan Belanda hingga dibebaskan oleh penjajah Jepang dalam Perang Dunia II. Soekarno dan rekan-rekan nasionalisnya berkolaborasi dengan Jepang untuk mendapatkan dukungan bagi upaya perang Jepang dari penduduk, sebagai imbalan atas bantuan Jepang dalam menyebarkan ide-ide nasionalis. Setelah Jepang menyerah, Soekarno dan Mohammad Hatta mendeklarasikan kemerdekaan Indonesia pada tanggal 17 Agustus 1945, dan Sukarno diangkat menjadi presiden. Ia memimpin perlawanan Indonesia terhadap upaya penjajahan kembali Belanda melalui cara diplomatik dan militer hingga pengakuan Belanda atas kemerdekaan Indonesia pada tahun 1949. Oleh karena itu, ia diberi gelar "Bapak Proklamasi."[9]</item>
-        <item>Mohammad Hatta adalah wakil presiden pertama Indonesia yang mendampingi Soekarno, serta berperan dalam proklamasi kemerdekaan Indonesia pada 17 Agustus 1945.</item>
-        <item>Jenderal Sudirman adalah seorang pahlawan nasional Indonesia dan panglima besar Tentara Nasional Indonesia yang berjuang melawan penjajah Belanda.</item>
-        <item>RA Kartini adalah seorang pahlawan nasional yang dikenal karena perjuangannya dalam memajukan pendidikan perempuan di Indonesia pada masa kolonial.</item>
-        <item>Diponegoro adalah pahlawan nasional yang memimpin Perang Jawa (1825 sampai 1830) melawan kolonial Belanda untuk mempertahankan kemerdekaan Indonesia.</item>
-        <item>Teuku Umar adalah pahlawan Aceh yang terkenal karena perjuangannya dalam perlawanan terhadap penjajahan Belanda di Aceh.</item>
-        <item>Hasyim Asyari adalah pendiri Nahdlatul Ulama dan seorang ulama yang berperan dalam memperjuangkan kemerdekaan Indonesia melalui pendekatan keagamaan.</item>
-        <item>Gatot Subroto adalah seorang jenderal TNI yang berperan dalam perjuangan melawan penjajahan Jepang dan Belanda, serta dalam memperjuangkan kemerdekaan Indonesia.</item>
-        <item>Mohammad Natsir adalah seorang pejuang kemerdekaan Indonesia, tokoh Muhammadiyah, dan perdana menteri Indonesia yang memperjuangkan ideologi negara.</item>
-        <item>Sultan Agung adalah Sultan Mataram yang memimpin perlawanan terhadap penjajahan Belanda di abad ke-17.</item>
+        <item>KPU menggelar Rapat Pleno Terbuka Penetapan Hasil Pemilu 2024 Tingkat Nasional, Rabu (20/3/2024) di Kantor KPU. Rapat pleno terbuka ini dipimpin oleh Ketua KPU Hasyim Asyari, Idham Holik, Mochammad Afifuddin, August Mellaz, Betty Epsilon Idroos, Yulianto Sudrajat, dan Parsadaan Harahap bersama Sekretaris Jenderal KPU Bernad Dermawan Sutrisno, di Ruang Sidang Utama Lantai 2 KPU.Pada kesempatan itu, Hasyim memimpin tiga rangkaian acara, yaitu pertama, pembacaan dan penandatanganan Berita Acara Penetapan Rekapitulasi Hasil Perolehan Suara Tingkat Nasional, yaitu Pemilu Presiden dan Wakil Presiden, DPR RI dan DPD RI. Kedua, pembacaan dan penandatanganan Berita Acara Penetapan Hasil Pemilu Secara Nasional, yaitu Pemilu Presiden dan Wakil Presiden, DPR RI, DPD RI, DPRD Provinsi dan DPRD Kabupaten/Kota. Ketiga, Pembacaan dan Penandatanganan Keputusan KPU Penetapan Hasil Pemilu Secara Nasional. </item>
+        <item>Memasuki tahun 2025, perkembangan teknologi semakin pesat dan beragam, mempengaruhi berbagai aspek kehidupan kita. Mulai dari inovasi pada bidang kecerdasan buatan hingga kemajuan teknologi yang ramah lingkungan, berikut merupakan beberapa kemungkinan tren teknologi yang patut kalian perhatikan dan mempersiapkan diri untuk menghadapinya. 1. Kecerdasan Buatan yang lebih Canggih dan Terintegrasi Teknologi kecerdasan buatan (Artificial Intelligence/AI) akan semakin meluas dan terintegrasi dalam kehidupan sehari-hari. AI tidak hanya akan digunakan dalam industri besar, tetapi juga dalam aplikasi personal seperti asisten virtual yang lebih cerdas, alat pembelajaran berbasis AI, dan teknologi pendukung produktivitas lainnya. Pada tahun ini diprediksi akan menjadi momen di mana AI generatif semakin diterapkan di berbagai sektor, mulai dari pendidikan, kesehatan, hingga hiburan.</item>
+        <item>Indonesia menjadi tuan rumah konferensi perubahan iklim yang mempertemukan berbagai negara untuk membahas upaya mengatasi pemanasan global.</item>
+        <item>Indonesia berhasil menarik wisatawan internasional setelah upaya revitalisasi destinasi wisata dan pelonggaran aturan pasca pandemi COVID-19.</item>
+        <item>Perubahan besar dalam sektor pendidikan Indonesia, dengan banyaknya platform pendidikan digital yang hadir.</item>
+        <item>Indonesia melanjutkan pembangunan jalan tol untuk menghubungkan wilayah-wilayah terpencil dengan kota-kota besar, mengurangi waktu perjalanan antar wilayah.</item>
+        <item>Keamanan siber menjadi perhatian utama di Indonesia setelah beberapa kasus kebocoran data besar-besaran terjadi di berbagai sektor.</item>
+        <item>Investasi asing di Indonesia meningkat tajam setelah reformasi kebijakan ekonomi dan investasi yang lebih terbuka.</item>
+        <item>Pemerintah Indonesia merilis strategi pembangunan ekonomi yang berfokus pada penguatan sektor industri dan sektor digital.</item>
+        <item>Pemerintah Indonesia mendukung pengembangan energi terbarukan untuk mengurangi ketergantungan pada bahan bakar fosil.</item>
+        <item>Hutan Indonesia mengalami proses restorasi ekosistem setelah kebakaran besar yang merusak banyak wilayah hutan di Kalimantan dan Sumatera.</item>
+        <item>Indonesia tengah melakukan transformasi besar dalam sektor kesehatan, dengan memperkenalkan teknologi baru dalam pelayanan kesehatan.</item>
     </string-array>
 
     <string-array name="data_author">
-        <item>John Smith</item>
-        <item>Jane Doe</item>
-        <item>Robert Brown</item>
-        <item>Emily Davis</item>
-        <item>Michael Johnson</item>
-        <item>Sarah Williams</item>
-        <item>Daniel Martinez</item>
-        <item>Emma Wilson</item>
-        <item>Chris Taylor</item>
-        <item>Jessica Anderson</item>
-        <item>James Thomas</item>
-        <item>Laura White</item>
-
-
-
+        <item>Abdurrahman Wam Ramon</item>
+        <item>Sri Astuta</item>
+        <item>Susi Pudjiastuti</item>
+        <item>Joko Widodo</item>
+        <item>Rini Soemarno</item>
+        <item>Prabowo Subianto</item>
+        <item>Megawati Soekarnoputri</item>
+        <item>Andi Widjajanto</item>
+        <item>Airlangga Hartarto</item>
+        <item>Bambang Brodjonegoro</item>
+        <item>Nadiem Makarim</item>
+        <item>Tri Rismaharini</item>
     </string-array>
 
     <string-array name="data_image">
-        <item>https://upload.wikimedia.org/wikipedia/map-bms/6/65/Ki_hajar_dewantara2.jpg?20110509150013</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/e/ed/Bung_Tomo.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/0/01/Presiden_Sukarno.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/d/db/Mohammad_Hatta%2C_Pekan_Buku_Indonesia_1954%2C_p242.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/e/e7/Sudirman.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/2/23/COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/2/2c/Diponegoro.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/6/68/Teuku_Umar.jpg</item>
-
-        <item>https://upload.wikimedia.org/wikipedia/commons/9/92/Hasyim_Asyari.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/b/be/Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg</item>
-        <item>https://upload.wikimedia.org/wikipedia/commons/4/4d/Mohammad_Natsir_1950s.jpg</item>
-
-        <item>https://upload.wikimedia.org/wikipedia/commons/d/d0/Anyakrakusuma_of_Mataram.jpg</item>
-
+        <item>https://www.kpu.go.id/images/1711044835WhatsApp%20Image%202024-03-21%20at%2001.09.59%20(1).jpeg</item>
+        <item>https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/236/2024/08/01/Screenshot-2024-08-01-013903-4143186914.png</item>
+        <item>https://img.antaranews.com/cache/800x533/2021/11/01/Jokowi-COP26-1.jpg</item>
+        <item>https://www.bhuanajaya.desa.id/wp-content/uploads/images/pengembangan-sektor-pariwisata-melalui-musrenbangdes-122628_1080x675.webp</item>
+        <item>https://img.tempo.co/indonesiana/images/all/2023/05/10/f202305102318599.jpg</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2018/05/15/a6a27036-8fc0-4008-903b-1b38a84eea26.jpeg?w=700q=90</item>
+        <item>https://indonews.id/images/posts/1/2022/2022-05-26/1d3eeae600182a0d3b32fa82ec91e967_1.jpg</item>
+        <item>https://img.tempo.co/indonesiana/images/all/2022/11/03/f202211031441463.jpg</item>
+        <item>https://feb.umsu.ac.id/wp-content/uploads/2023/07/masalah-pokok-ekonomi-700x375.jpeg</item>
+        <item>https://akcdn.detik.net.id/visual/2022/06/30/ilustrasi-pembangkit-listrik-tenaga-angin_169.jpeg?w=1200</item>
+        <item>https://asset-2.tstatic.net/tribunnews/foto/bank/images/ekosistem-hutan-8677t.jpg</item>
+        <item>https://dinkes.jogjaprov.go.id/view_image/view/2164/Transformasi%20Sistem%20Kesehatan.png</item>
     </string-array>
 
 </resources>
